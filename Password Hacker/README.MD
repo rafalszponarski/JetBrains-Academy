@@ -1,6 +1,6 @@
 # Steps needed to complete project "[**_Password Hacker_**](https://hyperskill.org/projects/80)"
 
-## Stage 1:
+## <br/>Stage 1:
 ### _Establishing a connection_
 Imagine some admin who runs a website on the Internet. The site is becoming very popular, and a lot of people register. Filling in their profiles, they leave some information there that is not meant to be public, for example, information about their credit cards.
 
@@ -42,7 +42,7 @@ Connection Success!
 ```
 
 
-## Stage 2:
+## <br/>Stage 2:
 ### _Simple brute force_
 The admin noticed someone sneaking around the site with admin rights and came up with a password. Now to log in as an admin, you need to enter the password first. Maybe the admin has set a relatively easy and short password so that it is easy to remember? Let's try to brute force all possible passwords to enter the site!
 
@@ -72,7 +72,7 @@ pass
 
 
 
-## Stage 3:
+## <br/>Stage 3:
 ### _Smarter, dictionary-based brute force_
 Looks like you can already call yourself a hacker! However, the situation gets more complicated: the admin improves the server and our simple brute force attack is no longer working. Well, this shouldn't hold you back: you can provide your program with a prepared [dictionary of typical passwords](https://stepik.org/media/attachments/lesson/255258/passwords.txt) (it was generated using a [database with over a million real-life passwords](https://www.troyhunt.com/the-773-million-record-collection-1-data-reach/)).
 
@@ -100,7 +100,7 @@ qWeRTy
 ```
 
 
-## Stage 4:
+## <br/>Stage 4:
 ### _Catching exception_
 The server is becoming smarter along with your hacking program. Now the admin has implemented a security system by login and password. In order to access the site with admin privileges, you need to know the admin's login and password. Fortunately, we have a dictionary of different logins and a very interesting vulnerability. You need to improve your program once again to hack the new system.
 
@@ -175,7 +175,7 @@ Finally, your program should print the combination of login and password in JSON
 ```
 
 
-## Stage 5:
+## <br/>Stage 5:
 ### _Time-based vulnerability_
 Your program has successfully hacked the new system! However, you've been spotted: the admin noticed your first failed attempts, found the vulnerability and made a patch. You should overcome this patch and hack the system again. It’s not easy being a hacker!
 
