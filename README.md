@@ -1,4 +1,4 @@
-# <img src="https://hyperskill.org/media/tracks/9368deaab97441f192fd4c8db42cb9bc/python.svg" width="75" height="75" alt="python" style="vertical-align:middle"> Hyperskill Python projects  <img src="https://hyperskill.org/media/tracks/9368deaab97441f192fd4c8db42cb9bc/python.svg" width="75" height="75" alt="python" style="vertical-align:middle">
+# <img src="https://hyperskill.org/media/tracks/9368deaab97441f192fd4c8db42cb9bc/python.svg" width="75" height="75" alt="python" style="vertical-align:middle"> Hyperskill Python projects  <img src="https://hyperskill.org/media/tracks/9368deaab97441f192fd4c8db42cb9bc/python.svg" width="75" height="75" alt="python" style="vertical-align:top">
 
 I created this repository to archive my projects created while working on the [hyperskill.org](https://hyperskill.org) platform and hope someone will use these solutions to improve their programming skills in python!
 I'm still working on completing missing projects, I'll try to update them weekly.
