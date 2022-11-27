@@ -5,23 +5,24 @@ I'm still working on completing missing projects, I'll try to update them weekly
 
 ---
 ## Table of Contents:
-### ![Easy](https://hyperskill.azureedge.net/static/img/easy.331dff7f.svg) Easy
+### ![Easy](https://hyperskill.azureedge.net/static/img/easy.331dff7f.svg) Easy 
 - [ ] ToDo
 
-### ![Medium](https://hyperskill.azureedge.net/static/img/medium.4bc6849c.svg) Medium
-- [ ] ToDo
-
-
-### ![Hard](https://hyperskill.azureedge.net/static/img/hard.e8e1bf49.svg) Hard
+### ![Medium](https://hyperskill.azureedge.net/static/img/medium.4bc6849c.svg) Medium 
 - [ ] ToDo
 
 
-### ![Challenging](https://hyperskill.azureedge.net/static/img/challenging.81b9c2e4.svg) Challenging
+### ![Hard](https://hyperskill.azureedge.net/static/img/hard.e8e1bf49.svg) Hard 
+- [ ] ToDo
+
+
+### ![Challenging](https://hyperskill.azureedge.net/static/img/challenging.81b9c2e4.svg) Challenging 
 - [x] [Password Hacker](https://github.com/rafalszponarski/JetBrains-Academy/tree/master/Password%20Hacker) 🥷🔐
+- [X] [Smart Calculator](https://github.com/rafalszponarski/JetBrains-Academy/tree/master/Smart%20Calculator) 📝📠
+- [ ] ToDo
 
 
 ---
 Check out [**my profile**](https://hyperskill.org/profile/2319510) on HyperSkill **!**
 
 ---
-

@@ -27,7 +27,7 @@ The algorithm is the following:
 6. Close the socket.
 
 
-<br/>The greater-than symbol followed by a space (> ) represents the user input. Note that it's not part of the input.
+<br/>The greater-than symbol followed by a space (`>`) represents the user input. Note that it's not part of the input.
 
 **Example 1:**
 ```
@@ -62,7 +62,7 @@ Note that you can connect to the server only once and then send messages many ti
 Also, note that here and throughout the project, the password is different every time you check your code.
 
 
-<br/>The greater-than symbol followed by a space (> ) represents the user input. Note that it's not part of the input.
+<br/>The greater-than symbol followed by a space (`>`) represents the user input. Note that it's not part of the input.
 
 **Example:**
 ```
@@ -91,7 +91,7 @@ This has increased the time of hacking greatly, so using brute force is probably
 Note that here and throughout the project, the password is different every time you check your code
 
 
-<br/>The greater-than symbol followed by a space (> ) represents the user input. Note that it's not part of the input.
+<br/>The greater-than symbol followed by a space (`>`) represents the user input. Note that it's not part of the input.
 
 **Example:**
 ```
@@ -157,7 +157,7 @@ As for passwords, they’ve become yet harder, so a simple dictionary is no long
 
 Finally, your program should print the combination of login and password in JSON format. The examples show two ways of what the output can look like.
 
-<br/>The greater-than symbol followed by a space (> ) represents the user input. Note that it's not part of the input.
+<br/>The greater-than symbol followed by a space (`>`) represents the user input. Note that it's not part of the input.
 
 **Example 1:**
 ```
@@ -188,7 +188,7 @@ But here's the thing: the admin probably just caught this exception. We know tha
 + Use the list of logins from the previous stage.
 + Output the result as you did this in the previous stage
 
-<br/>The greater-than symbol followed by a space (> ) represents the user input. Note that it's not part of the input.
+<br/>The greater-than symbol followed by a space (`>`) represents the user input. Note that it's not part of the input.
 
 **Example 1:**
 ```
