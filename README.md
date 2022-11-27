@@ -17,7 +17,7 @@ I'm still working on completing missing projects, I'll try to update them weekly
 
 
 ### ![Challenging](https://hyperskill.azureedge.net/static/img/challenging.81b9c2e4.svg) Challenging 
-- [X] [Flashcards](https://github.com/rafalszponarski/JetBrains-Academy/tree/master/Flashcards) 🎲🃏
+- [X] [Flashcards](https://github.com/rafalszponarski/JetBrains-Academy/tree/master/FlashCards) 🎲🃏
 - [x] [Password Hacker](https://github.com/rafalszponarski/JetBrains-Academy/tree/master/Password%20Hacker) 🥷🔐
 - [X] [Smart Calculator](https://github.com/rafalszponarski/JetBrains-Academy/tree/master/Smart%20Calculator) 📝📠
 - [ ] ToDo
