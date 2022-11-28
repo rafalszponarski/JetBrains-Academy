@@ -230,7 +230,7 @@ The program's behavior depends on the action the user inputs:
 
 &nbsp;
 
-The symbol 1 represents the user input. Note that it's not part of the input.
+The symbol `>` represents the user input. Note that it's not part of the input.
 
 **Example 1:** the user removes an existing card and tries to remove a non-existent one.
 ```

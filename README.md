@@ -1,6 +1,6 @@
 # <img src="https://hyperskill.org/media/tracks/9368deaab97441f192fd4c8db42cb9bc/python.svg" width="75" height="75" alt="python" style="vertical-align:middle"> Hyperskill Python projects  <img src="https://hyperskill.org/media/tracks/9368deaab97441f192fd4c8db42cb9bc/python.svg" width="75" height="75" alt="python" style="vertical-align:top">
 
-I created this repository to archive my projects created while working on the [hyperskill.org](https://hyperskill.org) platform and hope someone will use these solutions to improve their programming skills in python!
+I created this repository to archive some of my projects created while working on the [hyperskill.org](https://hyperskill.org) platform and hope someone will use these solutions to improve their programming skills in python!
 I'm still working on completing missing projects, I'll try to update them weekly.
 
 ---
@@ -17,7 +17,7 @@ I'm still working on completing missing projects, I'll try to update them weekly
 
 
 ### ![Challenging](https://hyperskill.azureedge.net/static/img/challenging.81b9c2e4.svg) Challenging 
-- [X] [Flashcards](https://github.com/rafalszponarski/JetBrains-Academy/tree/master/FlashCards) 🎲🃏
+- [X] [FlashCards](https://github.com/rafalszponarski/JetBrains-Academy/tree/master/FlashCards) 🎲🃏
 - [x] [Password Hacker](https://github.com/rafalszponarski/JetBrains-Academy/tree/master/Password%20Hacker) 🥷🔐
 - [X] [Smart Calculator](https://github.com/rafalszponarski/JetBrains-Academy/tree/master/Smart%20Calculator) 📝📠
 - [ ] ToDo
