@@ -1,4 +1,4 @@
-# Steps needed to complete project "[**_Password Hacker_**](https://hyperskill.org/projects/252)"
+# Steps needed to complete project "[**_Simple Calculator_**](https://hyperskill.org/projects/252)"
 
 ## <br/>Stage 1:
 ### _Read and validate_

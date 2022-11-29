@@ -30,7 +30,7 @@ I'm still working on completing missing projects.
 ---
 ## Table of Contents (**Bash** <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Bash_Logo_Colored.svg/512px-Bash_Logo_Colored.svg.png?20180723054350" width="40" height="40" alt="Bash" style="vertical-align:middle"> ):
 ### ![Easy](https://hyperskill.azureedge.net/static/img/easy.331dff7f.svg) Easy 
-- [x] [Simple Calculator](https://github.com/rafalszponarski/JetBrains-Academy/tree/master/Simple%20Calculator%20(Bash))
+- [x] [Simple Calculator](https://github.com/rafalszponarski/JetBrains-Academy/tree/master/Simple%20Calculator%20(Bash)) ✏️📠
 
 <!---
 ### ![Medium](https://hyperskill.azureedge.net/static/img/medium.4bc6849c.svg) Medium 
@@ -42,7 +42,7 @@ I'm still working on completing missing projects.
 -->
 
 ### ![Challenging](https://hyperskill.azureedge.net/static/img/challenging.81b9c2e4.svg) Challenging 
-- [ ] ToDo
+- [x] [Simple Conventer](https://github.com/rafalszponarski/JetBrains-Academy/tree/master/Simple%20Conventer%20(Bash)) 🔄🔀
 
 
 ---
