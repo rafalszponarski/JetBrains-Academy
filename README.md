@@ -9,6 +9,7 @@ I'm still working on completing missing projects.
 
 ## Table of Contents (**Python** <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/115px-Python-logo-notext.svg.png?20220821155029" width="40" height="40" alt="Python" style="vertical-align:middle"> ):
 ### ![Easy](https://hyperskill.azureedge.net/static/img/easy.331dff7f.svg) Easy 
+- [x] [Simple Chatty Bot](https://github.com/rafalszponarski/JetBrains-Academy/tree/master/Simple%20Chatty%20Bot) 📧🤖
 - [x] [Zookeeper](https://github.com/rafalszponarski/JetBrains-Academy/tree/master/Zookeeper) 🐾🐯
 - [ ] ToDo
 
