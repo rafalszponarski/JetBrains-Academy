@@ -9,6 +9,7 @@ I'm still working on completing missing projects.
 
 ## Table of Contents (**Python** <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/115px-Python-logo-notext.svg.png?20220821155029" width="40" height="40" alt="Python" style="vertical-align:middle"> ):
 ### ![Easy](https://hyperskill.azureedge.net/static/img/easy.331dff7f.svg) Easy 
+- [x] [Zookeeper](https://github.com/rafalszponarski/JetBrains-Academy/tree/master/Zookeeper) 🐾🐯
 - [ ] ToDo
 
 ### ![Medium](https://hyperskill.azureedge.net/static/img/medium.4bc6849c.svg) Medium 
@@ -42,7 +43,7 @@ I'm still working on completing missing projects.
 -->
 
 ### ![Challenging](https://hyperskill.azureedge.net/static/img/challenging.81b9c2e4.svg) Challenging 
-- [x] [Simple Conventer](https://github.com/rafalszponarski/JetBrains-Academy/tree/master/Simple%20Conventer%20(Bash)) 🔄🔀
+- [x] [Simple Conventer](https://github.com/rafalszponarski/JetBrains-Academy/tree/master/Simple%20Conventer%20(Bash)) 🔃🔀
 
 
 &nbsp;
