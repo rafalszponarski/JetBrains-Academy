@@ -14,6 +14,7 @@ I'm still working on completing missing projects.
 - [ ] ToDo
 
 ### ![Medium](https://hyperskill.azureedge.net/static/img/medium.4bc6849c.svg) Medium 
+- [x] [Coffee Machine](https://github.com/rafalszponarski/JetBrains-Academy/tree/master/Coffee%20Machine) ☕🤖
 - [ ] ToDo
 
 
@@ -44,7 +45,7 @@ I'm still working on completing missing projects.
 -->
 
 ### ![Challenging](https://hyperskill.azureedge.net/static/img/challenging.81b9c2e4.svg) Challenging 
-- [x] [Simple Conventer](https://github.com/rafalszponarski/JetBrains-Academy/tree/master/Simple%20Conventer%20(Bash)) 🔃🔀
+- [x] [Simple Conventer](https://github.com/rafalszponarski/JetBrains-Academy/tree/master/Simple%20Converter%20(Bash)) 🔃🔀
 
 
 &nbsp;
