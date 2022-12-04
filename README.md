@@ -19,6 +19,7 @@ I'm still working on completing missing projects.
 
 
 ### ![Hard](https://hyperskill.azureedge.net/static/img/hard.e8e1bf49.svg) Hard 
+- [x] [Easy Rider Bus Company](https://github.com/rafalszponarski/JetBrains-Academy/tree/master/Easy%20Rider%20Bus%20Company) 🚏🚌
 - [ ] ToDo
 
 
@@ -45,7 +46,7 @@ I'm still working on completing missing projects.
 -->
 
 ### ![Challenging](https://hyperskill.azureedge.net/static/img/challenging.81b9c2e4.svg) Challenging 
-- [x] [Simple Conventer](https://github.com/rafalszponarski/JetBrains-Academy/tree/master/Simple%20Converter%20(Bash)) 🔃🔀
+- [x] [Simple Converter](https://github.com/rafalszponarski/JetBrains-Academy/tree/master/Simple%20Converter%20(Bash)) 🔃🔀
 
 
 &nbsp;
