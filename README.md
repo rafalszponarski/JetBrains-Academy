@@ -11,23 +11,19 @@ I'm still working on completing missing projects.
 ### ![Easy](https://hyperskill.azureedge.net/static/img/easy.331dff7f.svg) Easy 
 - [x] [Simple Chatty Bot](https://github.com/rafalszponarski/JetBrains-Academy/tree/master/Simple%20Chatty%20Bot) 📧🤖
 - [x] [Zookeeper](https://github.com/rafalszponarski/JetBrains-Academy/tree/master/Zookeeper) 🐾🐯
-- [ ] ToDo
 
 ### ![Medium](https://hyperskill.azureedge.net/static/img/medium.4bc6849c.svg) Medium 
 - [x] [Coffee Machine](https://github.com/rafalszponarski/JetBrains-Academy/tree/master/Coffee%20Machine) ☕🤖
-- [ ] ToDo
 
 
 ### ![Hard](https://hyperskill.azureedge.net/static/img/hard.e8e1bf49.svg) Hard 
 - [x] [Easy Rider Bus Company](https://github.com/rafalszponarski/JetBrains-Academy/tree/master/Easy%20Rider%20Bus%20Company) 🚏🚌
-- [ ] ToDo
 
 
 ### ![Challenging](https://hyperskill.azureedge.net/static/img/challenging.81b9c2e4.svg) Challenging 
 - [X] [FlashCards](https://github.com/rafalszponarski/JetBrains-Academy/tree/master/FlashCards) 🎲🃏
 - [x] [Password Hacker](https://github.com/rafalszponarski/JetBrains-Academy/tree/master/Password%20Hacker) 🥷🔐
 - [X] [Smart Calculator](https://github.com/rafalszponarski/JetBrains-Academy/tree/master/Smart%20Calculator) 📝📠
-- [ ] ToDo
 
 &nbsp;
 
