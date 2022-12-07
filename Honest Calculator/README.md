@@ -132,6 +132,7 @@ Implement the flowchart below. Take a good look — there're two functions. The 
 ![flowchart stage 4](https://ucarecdn.com/0706cb45-ffba-4f2e-ab19-ab635467da58/)
 
 Functions:
+
 ![functions stage 4](https://ucarecdn.com/74e59427-a12d-4d48-8c7c-29008d46503b/)
 
 &nbsp;
