@@ -17,7 +17,7 @@ I'm still working on completing missing projects.
 ### ![Medium](https://hyperskill.azureedge.net/static/img/medium.4bc6849c.svg) Medium 
 - [x] [Coffee Machine](https://github.com/rafalszponarski/JetBrains-Academy/tree/master/Coffee%20Machine) ☕🤖
 - [x] [Simple Tic-Tac-Toe](https://github.com/rafalszponarski/JetBrains-Academy/tree/master/Simple%20Tic-Tac-Toe) ⭕❌
-
+- [x] [Rock-Paper-Scissors](https://github.com/rafalszponarski/JetBrains-Academy/tree/master/Rock-Paper-Scissors) 👊✂️
 
 
 ### ![Hard](https://hyperskill.azureedge.net/static/img/hard.e8e1bf49.svg) Hard 
@@ -43,10 +43,10 @@ I'm still working on completing missing projects.
 - [x] [Coffee Machine](https://github.com/rafalszponarski/JetBrains-Academy/tree/master/Coffee%20Machine) ☕🤖
 - [x] [Simple Tic-Tac-Toe](https://github.com/rafalszponarski/JetBrains-Academy/tree/master/Simple%20Tic-Tac-Toe) ⭕❌
 
-<!---
 ### ![Hard](https://hyperskill.azureedge.net/static/img/hard.e8e1bf49.svg) Hard 
-- [ ] ToDo
+- [x] [Rock-Paper-Scissors](https://github.com/rafalszponarski/JetBrains-Academy/tree/master/Rock-Paper-Scissors) 👊✂️
 
+<!---
 ### ![Challenging](https://hyperskill.azureedge.net/static/img/challenging.81b9c2e4.svg) Challenging 
 - [ ] ToDo
 -->
