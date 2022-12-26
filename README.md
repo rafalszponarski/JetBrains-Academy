@@ -20,6 +20,7 @@ I'm still working on completing missing projects.
 - [x] [Rock-Paper-Scissors](https://github.com/rafalszponarski/JetBrains-Academy/tree/master/Rock-Paper-Scissors) 👊✂️
 - [x] [Markdown Editor](https://github.com/rafalszponarski/JetBrains-Academy/tree/master/Markdown%20Editor) 🔤🔀
 - [x] [Bill Splitter](https://github.com/rafalszponarski/JetBrains-Academy/tree/master/Bill%20Splitter) 💵➗
+- [x] [Arithmetic Exam Application](https://github.com/rafalszponarski/JetBrains-Academy/tree/master/Arithmetic%20Exam%20Application) 📓✏️
 
 
 ### ![Hard](https://hyperskill.azureedge.net/static/img/hard.e8e1bf49.svg) Hard 
