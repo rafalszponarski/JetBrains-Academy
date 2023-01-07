@@ -64,14 +64,14 @@ I'm still working on completing missing projects.
 <!---
 ### ![Medium](https://hyperskill.azureedge.net/static/img/medium.4bc6849c.svg) Medium 
 - [ ] ToDo
-
-
-### ![Hard](https://hyperskill.azureedge.net/static/img/hard.e8e1bf49.svg) Hard 
-- [ ] ToDo
 -->
 
-### ![Challenging](https://hyperskill.azureedge.net/static/img/challenging.81b9c2e4.svg) Challenging 
+### ![Hard](https://hyperskill.azureedge.net/static/img/hard.e8e1bf49.svg) Hard 
 - [x] [Simple Converter](https://github.com/rafalszponarski/JetBrains-Academy/tree/master/Simple%20Converter%20(Bash)) 🔃🔀
+
+
+### ![Challenging](https://hyperskill.azureedge.net/static/img/challenging.81b9c2e4.svg) Challenging 
+- [x] [True or False](https://github.com/rafalszponarski/JetBrains-Academy/tree/master/True%20or%20False%20(Bash)) ✔️❌
 
 
 &nbsp;
