@@ -4,6 +4,12 @@ I created this repository to archive some of my projects created while working o
 Most of my projects are written in python, other languages will be marked in the folder name to improve readability.
 I'm still working on completing missing projects.
 
+#### My progress on completed topics:
+- **Python Core** 🐍🐉 ![100](https://geps.dev/progress/100)
+- **SQL with Python** 🗄️🗃️ ![100](https://geps.dev/progress/100)
+- **Command Line and Unix Shell (Bash)** :~💲 ![100](https://geps.dev/progress/100)
+- **Computer Algorithms and Data Structures** 🧮💻 ![98](https://geps.dev/progress/98)  
+
 &nbsp;
 
 ## **Python** <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/115px-Python-logo-notext.svg.png?20220821155029" width="40" height="40" alt="Python" style="vertical-align:middle">:
