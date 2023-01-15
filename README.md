@@ -55,6 +55,7 @@ I'm still working on completing missing projects.
 
 ### ![Hard](https://hyperskill.azureedge.net/static/img/hard.e8e1bf49.svg) Hard 
 - [x] [Rock-Paper-Scissors](https://github.com/rafalszponarski/JetBrains-Academy/tree/master/Rock-Paper-Scissors) 👊✂️
+- [x] [Simple Banking System](https://github.com/rafalszponarski/JetBrains-Academy/tree/master/Simple%20Banking%20System) 🏦💸
 
 <!---
 ### ![Challenging](https://hyperskill.azureedge.net/static/img/challenging.81b9c2e4.svg) Challenging 
