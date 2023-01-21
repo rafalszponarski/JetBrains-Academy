@@ -2,10 +2,12 @@
 
 I created this repository to archive some of my projects created while working on the [hyperskill.org](https://hyperskill.org/profile/2319510) platform and hope someone will use these solutions to improve their programming skills!
 Most of my projects are written in python, other languages will be marked in the folder name to improve readability.
-I'm still working on completing missing projects.
+
 
 #### My progress on completed topics:
+- **Python for Beginners** 🥚🐍 ![100](https://geps.dev/progress/100)
 - **Python Core** 🐍🐉 ![100](https://geps.dev/progress/100)
+- **SQL Fundamentals** 📚🗂️ ️ ![100](https://geps.dev/progress/100)
 - **SQL with Python** 🗄️🗃️ ![100](https://geps.dev/progress/100)
 - **Command Line and Unix Shell (Bash)** :~💲 ![100](https://geps.dev/progress/100)
 - **Computer Algorithms and Data Structures** 🧮💻 ![98](https://geps.dev/progress/98)  
@@ -31,6 +33,7 @@ I'm still working on completing missing projects.
 
 ### ![Hard](https://hyperskill.azureedge.net/static/img/hard.e8e1bf49.svg) Hard 
 - [x] [Easy Rider Bus Company](https://github.com/rafalszponarski/JetBrains-Academy/tree/master/Easy%20Rider%20Bus%20Company) 🚏🚌
+- [x] [University Admission Procedure](https://github.com/rafalszponarski/JetBrains-Academy/tree/master/University%20Admission%20Procedure) 🏫🎓
 
 
 ### ![Challenging](https://hyperskill.azureedge.net/static/img/challenging.81b9c2e4.svg) Challenging 
@@ -56,6 +59,7 @@ I'm still working on completing missing projects.
 ### ![Hard](https://hyperskill.azureedge.net/static/img/hard.e8e1bf49.svg) Hard 
 - [x] [Rock-Paper-Scissors](https://github.com/rafalszponarski/JetBrains-Academy/tree/master/Rock-Paper-Scissors) 👊✂️
 - [x] [Simple Banking System](https://github.com/rafalszponarski/JetBrains-Academy/tree/master/Simple%20Banking%20System) 🏦💸
+- [x] [University Admission Procedure](https://github.com/rafalszponarski/JetBrains-Academy/tree/master/University%20Admission%20Procedure) 🏫🎓
 
 <!---
 ### ![Challenging](https://hyperskill.azureedge.net/static/img/challenging.81b9c2e4.svg) Challenging 
@@ -84,6 +88,6 @@ I'm still working on completing missing projects.
 &nbsp;
 
 ---
-Check out [**my profile**](https://hyperskill.org/profile/2319510) on HyperSkill **!**
+Check out [**my profile**](https://hyperskill.org/profile/2319510) on **HyperSkill !**
 
 ---
