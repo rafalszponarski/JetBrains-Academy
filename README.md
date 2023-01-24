@@ -61,10 +61,8 @@ Most of my projects are written in python, other languages will be marked in the
 - [x] [Simple Banking System](https://github.com/rafalszponarski/JetBrains-Academy/tree/master/Simple%20Banking%20System) 🏦💸
 - [x] [University Admission Procedure](https://github.com/rafalszponarski/JetBrains-Academy/tree/master/University%20Admission%20Procedure) 🏫🎓
 
-<!---
 ### ![Challenging](https://hyperskill.azureedge.net/static/img/challenging.81b9c2e4.svg) Challenging 
-- [ ] ToDo
--->
+- [x] [To-Do List](https://github.com/rafalszponarski/JetBrains-Academy/tree/master/To-Do%20List) ✅📑
 
 &nbsp;
 
