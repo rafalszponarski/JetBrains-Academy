@@ -63,6 +63,7 @@ Most of my projects are written in python, other languages will be marked in the
 
 ### ![Challenging](https://hyperskill.azureedge.net/static/img/challenging.81b9c2e4.svg) Challenging 
 - [x] [To-Do List](https://github.com/rafalszponarski/JetBrains-Academy/tree/master/To-Do%20List) ✅📑
+- [x] [Memorization Tool](https://github.com/rafalszponarski/JetBrains-Academy/tree/master/Memorization%20Tool) 🧠🤯
 
 &nbsp;
 
