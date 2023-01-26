@@ -7,9 +7,11 @@ Most of my projects are written in python, other languages will be marked in the
 #### My progress on completed topics:
 - **Python for Beginners** 🥚🐍 ![100](https://geps.dev/progress/100)
 - **Python Core** 🐍🐉 ![100](https://geps.dev/progress/100)
+- **Intermediate Python** 🐉🐲 ![100](https://geps.dev/progress/100)
 - **SQL Fundamentals** 📚🗂️ ️ ![100](https://geps.dev/progress/100)
 - **SQL with Python** 🗄️🗃️ ![100](https://geps.dev/progress/100)
-- **Command Line and Unix Shell (Bash)** :~💲 ![100](https://geps.dev/progress/100)
+- **SQL for Backend Developers** 🗄️💻 ![100](https://geps.dev/progress/100)
+- **Command Line and Unix Shell (Bash)** 🐚💲 ![100](https://geps.dev/progress/100)
 - **Computer Algorithms and Data Structures** 🧮💻 ![98](https://geps.dev/progress/98)  
 
 &nbsp;
@@ -23,18 +25,17 @@ Most of my projects are written in python, other languages will be marked in the
 - [x] [Zookeeper](https://github.com/rafalszponarski/JetBrains-Academy/tree/master/Zookeeper) 🐾🐯
 
 ### ![Medium](https://hyperskill.azureedge.net/static/img/medium.4bc6849c.svg) Medium 
-- [x] [Coffee Machine](https://github.com/rafalszponarski/JetBrains-Academy/tree/master/Coffee%20Machine) ☕🤖
-- [x] [Simple Tic-Tac-Toe](https://github.com/rafalszponarski/JetBrains-Academy/tree/master/Simple%20Tic-Tac-Toe) ⭕❌
-- [x] [Rock-Paper-Scissors](https://github.com/rafalszponarski/JetBrains-Academy/tree/master/Rock-Paper-Scissors) 👊✂️
-- [x] [Markdown Editor](https://github.com/rafalszponarski/JetBrains-Academy/tree/master/Markdown%20Editor) 🔤🔀
-- [x] [Bill Splitter](https://github.com/rafalszponarski/JetBrains-Academy/tree/master/Bill%20Splitter) 💵➗
 - [x] [Arithmetic Exam Application](https://github.com/rafalszponarski/JetBrains-Academy/tree/master/Arithmetic%20Exam%20Application) 📓✏️
-
+- [x] [Bill Splitter](https://github.com/rafalszponarski/JetBrains-Academy/tree/master/Bill%20Splitter) 💵➗
+- [x] [Coffee Machine](https://github.com/rafalszponarski/JetBrains-Academy/tree/master/Coffee%20Machine) ☕🤖
+- [x] [Currency Converter](https://github.com/rafalszponarski/JetBrains-Academy/tree/master/Currency%20Converter) 🏦💱
+- [x] [Markdown Editor](https://github.com/rafalszponarski/JetBrains-Academy/tree/master/Markdown%20Editor) 🔤🔀
+- [x] [Rock-Paper-Scissors](https://github.com/rafalszponarski/JetBrains-Academy/tree/master/Rock-Paper-Scissors) 👊✂️
+- [x] [Simple Tic-Tac-Toe](https://github.com/rafalszponarski/JetBrains-Academy/tree/master/Simple%20Tic-Tac-Toe) ⭕❌
 
 ### ![Hard](https://hyperskill.azureedge.net/static/img/hard.e8e1bf49.svg) Hard 
 - [x] [Easy Rider Bus Company](https://github.com/rafalszponarski/JetBrains-Academy/tree/master/Easy%20Rider%20Bus%20Company) 🚏🚌
 - [x] [University Admission Procedure](https://github.com/rafalszponarski/JetBrains-Academy/tree/master/University%20Admission%20Procedure) 🏫🎓
-
 
 ### ![Challenging](https://hyperskill.azureedge.net/static/img/challenging.81b9c2e4.svg) Challenging 
 - [X] [FlashCards](https://github.com/rafalszponarski/JetBrains-Academy/tree/master/FlashCards) 🎲🃏
@@ -53,8 +54,8 @@ Most of my projects are written in python, other languages will be marked in the
 
 ### ![Medium](https://hyperskill.azureedge.net/static/img/medium.4bc6849c.svg) Medium 
 - [x] [Coffee Machine](https://github.com/rafalszponarski/JetBrains-Academy/tree/master/Coffee%20Machine) ☕🤖
-- [x] [Simple Tic-Tac-Toe](https://github.com/rafalszponarski/JetBrains-Academy/tree/master/Simple%20Tic-Tac-Toe) ⭕❌
 - [x] [Markdown Editor](https://github.com/rafalszponarski/JetBrains-Academy/tree/master/Markdown%20Editor) 🔤🔀
+- [x] [Simple Tic-Tac-Toe](https://github.com/rafalszponarski/JetBrains-Academy/tree/master/Simple%20Tic-Tac-Toe) ⭕❌
 
 ### ![Hard](https://hyperskill.azureedge.net/static/img/hard.e8e1bf49.svg) Hard 
 - [x] [Rock-Paper-Scissors](https://github.com/rafalszponarski/JetBrains-Academy/tree/master/Rock-Paper-Scissors) 👊✂️
@@ -62,8 +63,8 @@ Most of my projects are written in python, other languages will be marked in the
 - [x] [University Admission Procedure](https://github.com/rafalszponarski/JetBrains-Academy/tree/master/University%20Admission%20Procedure) 🏫🎓
 
 ### ![Challenging](https://hyperskill.azureedge.net/static/img/challenging.81b9c2e4.svg) Challenging 
-- [x] [To-Do List](https://github.com/rafalszponarski/JetBrains-Academy/tree/master/To-Do%20List) ✅📑
 - [x] [Memorization Tool](https://github.com/rafalszponarski/JetBrains-Academy/tree/master/Memorization%20Tool) 🧠🤯
+- [x] [To-Do List](https://github.com/rafalszponarski/JetBrains-Academy/tree/master/To-Do%20List) ✅📑
 
 &nbsp;
 
@@ -79,10 +80,8 @@ Most of my projects are written in python, other languages will be marked in the
 ### ![Hard](https://hyperskill.azureedge.net/static/img/hard.e8e1bf49.svg) Hard 
 - [x] [Simple Converter](https://github.com/rafalszponarski/JetBrains-Academy/tree/master/Simple%20Converter%20(Bash)) 🔃🔀
 
-
 ### ![Challenging](https://hyperskill.azureedge.net/static/img/challenging.81b9c2e4.svg) Challenging 
 - [x] [True or False](https://github.com/rafalszponarski/JetBrains-Academy/tree/master/True%20or%20False%20(Bash)) ✔️❌
-
 
 &nbsp;
 
