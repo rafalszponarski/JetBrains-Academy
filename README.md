@@ -29,6 +29,7 @@ Most of my projects are written in python, other languages will be marked in the
 - [x] [Bill Splitter](https://github.com/rafalszponarski/JetBrains-Academy/tree/master/Bill%20Splitter) 💵➗
 - [x] [Coffee Machine](https://github.com/rafalszponarski/JetBrains-Academy/tree/master/Coffee%20Machine) ☕🤖
 - [x] [Currency Converter](https://github.com/rafalszponarski/JetBrains-Academy/tree/master/Currency%20Converter) 🏦💱
+- [x] [Hangman](https://github.com/rafalszponarski/JetBrains-Academy/tree/master/Hangman) 🔤🤔
 - [x] [Markdown Editor](https://github.com/rafalszponarski/JetBrains-Academy/tree/master/Markdown%20Editor) 🔤🔀
 - [x] [Rock-Paper-Scissors](https://github.com/rafalszponarski/JetBrains-Academy/tree/master/Rock-Paper-Scissors) 👊✂️
 - [x] [Simple Tic-Tac-Toe](https://github.com/rafalszponarski/JetBrains-Academy/tree/master/Simple%20Tic-Tac-Toe) ⭕❌
