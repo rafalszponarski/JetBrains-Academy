@@ -20,7 +20,7 @@ ask_line_number() {
     echo "Type the line number to $2 or '0' to return"
     print_with_line_numbers "$filename"
     while true; do
-      read $1
+      read -r "$1"
       [[ ${!1} = 0 ]] && return 1
       [[ "${!1}" =~ ^[0-9]+$ && ${!1} -ge 1 && ${!1} -le $nLines ]] && return 0
       echo "Enter a valid line number!"
@@ -31,16 +31,16 @@ ask_line_number() {
 convert() {
   local line_number def ratio val
   if ask_line_number line_number "convert units"; then
-    read def ratio <<< `sed "$line_number!d" "$filename"`
+    read -r def ratio <<< $(sed "$line_number!d" "$filename")
     enter_value val
-    printf "Result: %s%n" $(bc -l <<< "scale=2; $ratio * $val")
+    printf "Result: %s" $(bc -l <<< "scale=2; $ratio * $val")
   fi
 }
 
 enter_value() {
   echo "Enter a value to convert:"
   while true; do
-    read $1 && [[ "${!1}" =~ $reNum ]] && break
+    read -r "$1" && [[ "${!1}" =~ $reNum ]] && break
     echo "Enter a float or integer value!"
   done
 }
@@ -49,7 +49,7 @@ add_def() {
   local reDef="^[a-z]+_to_[a-z]+$"
   local def ratio
   while true; do
-    echo "Enter a definition:" && read def ratio
+    echo "Enter a definition:" && read -r def ratio
     if [[ "$def" =~ $reDef && "$ratio" =~ $reNum ]]; then
       echo "$def $ratio" >> $filename; break
     else
@@ -60,9 +60,9 @@ add_def() {
 
 print_with_line_numbers() {
   local n
-  while read line; do
+  while read -r line; do
     echo "$(( n += 1 )). $line"
-  done < $1
+  done < "$1"
 }
 
 del_def() {
@@ -72,7 +72,7 @@ del_def() {
 
 echo "Welcome to the Simple converter!"
 while true; do
-  show_menu && read option
+  show_menu && read -r option
   case $option in
     "0" | "quit" ) echo "Goodbye!"; break;;
     "1" ) convert;;
@@ -82,6 +82,9 @@ while true; do
   esac
 done
 
-# This solution belongs to Oleksandr Butrym and is much better, that's why I will put them instead of mine
-# However, I made fix in RegExp. (Original: reNum="^-?[0-9]+(\.[0-9]+)?$")
-# His profile is available here: https://hyperskill.org/profile/6050949
+# I wrote very similar code, so to avoid being accused of plagiarism I put the author's code here which I used to improve my code
+# However, I made corrections:
+# - rewrite RegExp rule
+# - read without -r will mangle backslashes
+# - removed unnecessary variable in function
+# This solution belongs to Oleksandr Butrym, His profile is available here: https://hyperskill.org/profile/6050949
