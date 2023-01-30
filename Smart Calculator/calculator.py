@@ -1,47 +1,51 @@
-import re
+def calculator(formula, memory):
+    if '=' in formula:
+        key, value = formula.replace(' ', '').split('=')
 
-user_vars = dict()
-while True:
-    user_input = input().replace(" ", "")
-    if user_input == "/exit":
-        print("Bye!")
-        break
-    elif user_input == "/help":
-        print("The program calculates the expression")
-    elif user_input.startswith("/"):
-        print("Unknown command")
-    elif not user_input:
-        continue
-    elif "=" in user_input:
-        if not user_input.split("=")[0].isalpha():
+        if not key.isalpha():
             print("Invalid identifier")
-        elif user_input.count("=") > 1 \
-                or not user_input.split("=")[1].isnumeric() \
-                and user_input.split("=")[1] not in user_vars:
-            print("Invalid assignment")
+
+        elif value.isnumeric():
+            memory[key] = float(value)
+        elif value in memory.keys():
+            memory[key] = float(memory[value])
         else:
-            user_vars[user_input.split("=")[0]] = user_input.split("=")[1]
+            print("Invalid assignment")
+
+    elif any(k in formula for k in '+-*/^'):
+        for k, v in memory.items():
+            formula.replace(k, str(v))
+
+        print(round(eval(formula, {"builtins": None}, memory)))
+
+    elif formula.strip() in memory.keys():
+        print(round(memory[formula.strip()]))
 
     else:
-        expr_vars = filter(lambda a: a.isalpha(), re.split("[+\-*/%()]", user_input))
-        for var in expr_vars:
-            if var in user_vars:
-                val = user_vars[var]
-                while not str(val).isnumeric():
-                    val = user_vars[val]
-                user_input = user_input.replace(var, val)
-            else:
-                print("Unknown variable")
-                break
-        else:
-            if "//" in user_input:
-                print("Invalid expression")
-            else:
-                try:
-                    result = eval(user_input)
-                    print(int(result) if int(result) == result else result)
-                except Exception:
-                    print("Invalid expression")
+        print("Unknown variable")
 
-# This solution belongs to Bartosz Sójka and is much better, that's why I will put them instead of mine
-# His profile is available here: https://hyperskill.org/profile/37611696
+
+def menu():
+    memory = {}
+    while True:
+        user = input()
+
+        if user == '/exit':
+            print("Bye!")
+            break
+
+        elif user == '/help':
+            print('Super helpful help message!')
+
+        elif user.startswith('/'):
+            print('Unknown command')
+
+        elif not (user.count('(') == user.count(')') and not any(k*2 in user for k in '+-*/^=') and user.count('=') <= 1):
+            print('Invalid expression')
+
+        elif user:
+            calculator(user, memory)
+
+
+if __name__ == '__main__':
+    menu()
